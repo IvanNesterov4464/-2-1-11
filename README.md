@@ -9,7 +9,7 @@ Desktop-приложение для управления турами, отел�
 - hashlib (хеширование паролей)
 
 ## Как установить
-1. Скачайте проект: `git clone https://github.com/IvanNesterov4464/2-1-11.git`
+1. Скачайте проект: `https://github.com/IvanNesterov4464/-2-1-11`
 2. Или нажмите "Code" → "Download ZIP" и распакуйте
 3. Убедитесь, что установлен Python 3.10+
 
